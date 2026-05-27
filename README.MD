@@ -40,7 +40,7 @@ dist
 docker build -t react-app .
 ```
 ## Run Docker container on port 7775
-````bash
+```bash
 docker run --name lastName_firstName_coding_assignment11 -p 7775:7775 react-app
 ```
 
